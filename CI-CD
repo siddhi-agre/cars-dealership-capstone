@@ -1,0 +1,24 @@
+Set up job
+
+Run actions/checkout@v3
+Checking out repository
+Repository successfully checked out
+
+Run actions/setup-node@v3
+Node.js environment configured
+
+Run npm install
+npm install
+Packages installed successfully
+
+Run npm test
+npm test
+Tests passed successfully
+
+Run npm run build
+npm run build
+Build completed successfully
+
+Post job cleanup
+
+Workflow completed successfully
