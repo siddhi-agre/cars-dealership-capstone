@@ -1,0 +1,14 @@
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_dealer/1"
+
+{
+  "id": 1,
+  "full_name": "ABC Motors",
+  "short_name": "ABC",
+  "city": "Kansas City",
+  "state": "KS",
+  "st": "KS",
+  "address": "123 Main Street",
+  "zip": "66101",
+  "lat": "39.1141",
+  "long": "-94.6275"
+}
