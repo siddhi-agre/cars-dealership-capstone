@@ -1,0 +1,14 @@
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_dealer_reviews/1"
+[
+  {
+    "id": 1,
+    "dealer": 1,
+    "name": "John Doe",
+    "review": "Great service and friendly staff!",
+    "purchase": true,
+    "purchase_date": "2026-08-20",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2024
+  }
+]
