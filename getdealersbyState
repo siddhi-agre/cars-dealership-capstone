@@ -1,0 +1,12 @@
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_dealers/KS"
+
+[
+  {
+    "id": 1,
+    "full_name": "Example Motors",
+    "short_name": "Example",
+    "city": "Kansas City",
+    "state": "KS",
+    "address": "123 Main Street"
+  }
+]
