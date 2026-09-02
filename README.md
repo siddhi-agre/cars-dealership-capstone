@@ -1,9 +1,5 @@
-# Cars Dealership
+# fullstack_developer_capstone
 
-## Repository Name
+Repository Name: xrwvm-fullstack_developer_capstone
 
-cars-dealership-capstone
-
-## Project Name
-
-Cars Dealership
+Project Name: fullstack_developer_capstone
